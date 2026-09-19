@@ -5,8 +5,6 @@ risk, and generates a prioritised follow-up plan for a care-coordination team. B
 **LangGraph** and **Google Gemini**, exposed over a **FastAPI** REST API, and demonstrated
 end-to-end in a Jupyter/Colab notebook.
 
-> Data Scientist use-case assessment — MediCare Clinic (outpatient chronic-disease follow-up).
-
 ---
 
 ## Problem
@@ -119,4 +117,4 @@ jupyter notebook MediCare_Followup_Agent_LangGraph.ipynb
 
 ---
 
-*Built as an interview case study. Not for real clinical use.*
+
